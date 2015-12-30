@@ -15,7 +15,7 @@
 }
 
 h1, h2, h3, h4 {
-    font-family: 'Roboto', font-weight: bold; color: #28BF94;
+    font-family: 'Roboto', font-weight: bold; color: #28BF94; text-decoration: none;
 }
 
 .date {
@@ -43,5 +43,5 @@ h1, h2, h3, h4 {
 }
 
 .post h1 a, .post h1 a:visited {
-    color: #28BF94;
+    color: #28BF94; text-decoration: none;
 }
